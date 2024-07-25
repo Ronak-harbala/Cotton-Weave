@@ -89,7 +89,7 @@ main{
     width: 30%;
     height: 70%;
     align-self: end;
-    background-image: url("model.avif");
+    background-image: url("model.webp");
     background-size: cover;
     position: relative;
 }
